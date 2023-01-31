@@ -20,7 +20,7 @@ NOTE: Steps 1-5 are just Josh Plunkett's preferences.
         - "Dataview" by Michael Brenan
         - "Kanban" by mgmeyers
         - "Various Complements" by tadashi-aikawa
-       -  "Style Settings" by mgmeyers
+        -  "Style Settings" by mgmeyers
 
         - "Dice Roller" by Jeremy Valentine
         - "Fantasy Calendar" by Jeremy Valentine
