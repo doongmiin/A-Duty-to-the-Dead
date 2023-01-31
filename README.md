@@ -35,9 +35,15 @@ NOTE: Settings > Options > Core plugins > Page Preview > Options > "Require Cntr
 NOTE: Ensure Settings > Options > Core Plugins > Templates = TRUE
 TIP: Designate Settings > Options > Hotkeys > "Templates: Insert template" = [Alt + T]
 
-9. FROM GitHub ObsidianTTRPGProject/ObsidianTTRPGShare/ download ObsidianTTRPGProject/ObsidianTTRPGShare/TTRPGShare_Community_Vaults/Pathfinder_2E/
+9. FROM
+    GitHub
+        ObsidianTTRPGProject/ObsidianTTRPGShare/
+    download
+        ObsidianTTRPGProject/ObsidianTTRPGShare/TTRPGShare_Community_Vaults/Pathfinder_2E/
 10. Copy /Pathfinder_2E/ to the Obsidian Vault.
-    NOTE: In a roundabout way, Josh Plunkett copies the contents of /Pathfinder_2E/ into ~/mechanics. but I copied the folder itself; In other words, his ~/mechanics folder is my ~/Pathfinder_2E folder.
+
+NOTE: In a roundabout way, Josh Plunkett copies the contents of /Pathfinder_2E/ into ~/mechanics. but I copied the folder itself; In other words, his ~/mechanics folder is my ~/Pathfinder_2E folder.
+
 11. Open Command Palette, "Reload app without saving"
 
 12. Move ~/Pathfinder_2E/GM Screen/ to ~/GM Screen/
@@ -45,7 +51,30 @@ TIP: Designate Settings > Options > Hotkeys > "Templates: Insert template" = [Al
 13. Create directories
     - ~/Party
     - ~/World
-    - ~/Z_Conversion_Tools
     - ~/zz_Attachments
     - ~/zz_Templates
+    - ~/zz_Templates/Handlebar Templates/
 
+NOTE: I plan to move ~/zz_Attachments/ and ~/zz_Templates/ inside ~/zzzzz/
+
+NOTE: In Obsidian, right-click on /zz_Attachments/ and make it the designated attachments directory
+
+14. FROM
+    GitHub
+        ObsidianTTRPGProject/ObsidianTTRPGShare/
+    download
+        ObsidianTTRPGProject/ObsidianTTRPGShare/Pathfinder/Second_Edition/
+
+NOTE: We're going to begin exploring the directories and files in the ObsidianTTRPGProject/ObsidianTTRPGShare/Pathfinder/Second_Edition/TTRPG_Statblocks/ 
+
+15. Copy files from
+        ObsidianTTRPGProject/ObsidianTTRPGShare/Pathfinder/Second_Edition/TTRPG_Statblocks/Bestiary/
+    to
+        ~/Pathfinder_2E/Bestiary
+
+16. FROM
+        ObsidianTTRPGProject/ObsidianTTRPGShare/Pathfinder/Second_Edition/TTRPG_Statblocks/Bestiary_Layouts/
+    copy
+        Template-2ETools-Monster-Handlebar.md
+    to
+        zz_Templates/Handlebar Templates/
