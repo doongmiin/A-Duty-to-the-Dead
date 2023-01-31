@@ -5,6 +5,7 @@ Notes from Kylee's "A Duty to the Dead" pf2e campaign. For best results, open th
 Initial creation of this repository followed the directions in Josh Plunkett's Youtube video, [Obsidian - Setting up a Pathfinder 2e Vault](https://youtu.be/-gJZe9BN9pU).
 
 ## Step-by-Step
+NOTE: Steps 1-5 are just Josh Plunkett's preferences.
 1. Settings > Options > Appearance > Base color scheme = Light
 2. Settings > Options > Appearance > Themes > "Manage" = "ITS Theme"
 3. Create a new directory = ~/.obsidian/snippets/
@@ -19,6 +20,7 @@ Initial creation of this repository followed the directions in Josh Plunkett's Y
         - "Dataview" by Michael Brenan
         - "Kanban" by mgmeyers
         - "Various Complements" by tadashi-aikawa
+       -  "Style Settings" by mgmeyers
 
         - "Dice Roller" by Jeremy Valentine
         - "Fantasy Calendar" by Jeremy Valentine
@@ -27,8 +29,6 @@ Initial creation of this repository followed the directions in Josh Plunkett's Y
         - "Obsidian Leaflet" by Jeremy Valentine
         - "Second Window" by Jeremy Valentine
         - "TTRPG Statblocks" by Jeremy Valentine
-        - "Kanban" by mgmeyers
-        - "Style Settings"
 
 NOTE: Settings > Options > Core plugins > Page Preview > Options > "Require Cntrl/Cmd to trigger page preview on hover", "Kanban"=FALSE
 
