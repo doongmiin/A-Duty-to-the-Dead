@@ -94,4 +94,4 @@ NOTE: When following this tutorial video on JAN-31-2023, ^this CSS file is no lo
     copy
         Path2eBlock.json
     to
-        
+        ~/zz_Downloads/
