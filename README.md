@@ -130,3 +130,16 @@ NOTE: When following this tutorial video on JAN-31-2023, ^this CSS file is no lo
 
 29. Paste codeblock from previous step to
     ~/zz_Templates/zz_Markdown_Templates/Combat Templates/Insert Encounter (Initiative Tracker).md/
+
+30. FROM
+        ObsidianTTRPGProject/ObsidianTTRPGShare/Pathfinder/Second_Edition/Initiative_Tracker/_attachments/
+    copy
+        data.json
+    to
+        ~.obsidian/plugins/initiative-tracker/
+31. Open Command Palette, "Reload app without saving"
+
+32. Navigate to
+        Settings > Community plugins > Initiative Tracker > Statuses
+    The ones that don't have the `PF-` prefix are ones from the d&d 5e SRE. In other words, those can be deleted.
+33. Open Command Palette, "Reload app without saving"
