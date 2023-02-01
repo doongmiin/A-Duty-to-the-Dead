@@ -49,10 +49,11 @@ NOTE: In a roundabout way, Josh Plunkett copies the contents of /Pathfinder_2E/ 
 12. Move ~/Pathfinder_2E/GM Screen/ to ~/GM Screen/
 
 13. Create directories
-    - ~/Party
-    - ~/World
-    - ~/zz_Attachments
-    - ~/zz_Templates
+    - ~/Party/
+    - ~/World/
+    - ~/zz_Attachments/
+    - ~/zz_Downloads/
+    - ~/zz_Templates/
     - ~/zz_Templates/Handlebar Templates/
 
 NOTE: I plan to move ~/zz_Attachments/ and ~/zz_Templates/ inside ~/zzzzz/
@@ -78,3 +79,19 @@ NOTE: We're going to begin exploring the directories and files in the ObsidianTT
         Template-2ETools-Monster-Handlebar.md
     to
         zz_Templates/Handlebar Templates/
+
+17. FROM
+        ObsidianTTRPGProject/ObsidianTTRPGShare/Pathfinder/Second_Edition/TTRPG_Statblocks/Bestiary_Layouts/_attachments/
+    copy
+        Pathfinder2E-TTRPG-Statblocks.css
+    to
+        ~.obsidian/snippets/
+
+NOTE: When following this tutorial video on JAN-31-2023, ^this CSS file is no longer in the repository.
+
+18. FROM
+        ObsidianTTRPGProject/ObsidianTTRPGShare/Pathfinder/Second_Edition/TTRPG_Statblocks/Bestiary_Layouts/_attachments/
+    copy
+        Path2eBlock.json
+    to
+        
