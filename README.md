@@ -120,3 +120,13 @@ NOTE: When following this tutorial video on JAN-31-2023, ^this CSS file is no lo
 
 27. Paste codeblock from previous step to
     ~/zz_Templates/zz_Markdown_Templates/Combat Templates/Insert Monster (TTRPG Statblocks).md/
+
+28. Navigate to the README of Initiative Tracker (we can get there through the Community plugin browser) and find the codeblock example. At the time of writing this, it looks like this:
+    ```encounter
+    name: Example
+    creatures:
+    - 3: Goblin
+    ```
+
+29. Paste codeblock from previous step to
+    ~/zz_Templates/zz_Markdown_Templates/Combat Templates/Insert Encounter (Initiative Tracker).md/
