@@ -94,82 +94,82 @@ NOTE: We're going to begin exploring the directories and files in the ObsidianTT
     to
         ~/.obsidian/snippets/
 
-NOTE: When following this tutorial video on JAN-31-2023, ^this CSS file is no longer in the repository.
+18. Settings > Options > Appearance > CSS snippets > Pathfinder2E-TTRPG-Statblock = TRUE
 
-18. FROM
+19. FROM
         ObsidianTTRPGProject/ObsidianTTRPGShare/Pathfinder/Second_Edition/TTRPG_Statblocks/Bestiary_Layouts/_attachments/
     copy
         Path2eBlock.json
     to
         ~/zz_Downloads/
 
-19. Settings > Community plugins > TTRPG Statblocks > Layouts > "Import From JSON" > ~/zz_Downloads/Path2eBlock.json
-20. Open Command Palette, "Reload app without saving"
+20. Settings > Community plugins > TTRPG Statblocks > Layouts > "Import From JSON" > ~/zz_Downloads/Path2eBlock.json
+21. Open Command Palette, "Reload app without saving"
 
-21. Settings > Community plugins > TTRPG Statblocks > Layouts > Default Layout > "Path2eBlock"
-22. Open Command Palette, "Reload app without saving"
+22. Settings > Community plugins > TTRPG Statblocks > Layouts > Default Layout > "Path2eBlock"
+23. Open Command Palette, "Reload app without saving"
 
-23. Settings > Community plugins > Dice Roller > Display Formula With Results = FALSE
-24. Settings > Community plugins > Dice Roller > Always Render Dice = TRUE
-25. Open Command Palette, "Reload app without saving"
+24. Settings > Community plugins > Dice Roller > Display Formula With Results = FALSE
+25. Settings > Community plugins > Dice Roller > Always Render Dice = TRUE
+26. Open Command Palette, "Reload app without saving"
 
-26. Navigate to the README of TTRPG Statblock (we can get there through the Community plugin browser) and see the codeblock in the USAGE section. At the time of writing this, it looks like this:
+27. Navigate to the README of TTRPG Statblock (we can get there through the Community plugin browser) and see the codeblock in the USAGE section. At the time of writing this, it looks like this:
     ```statblock
     monster: <SRD/Homebrew Monster Name>
     ```
 
-27. Paste codeblock from previous step to
+28. Paste codeblock from previous step to
     ~/zz_Templates/zz_Markdown_Templates/Combat Templates/Insert Monster (TTRPG Statblocks).md/
 
-28. Navigate to the README of Initiative Tracker (we can get there through the Community plugin browser) and find the codeblock example. At the time of writing this, it looks like this:
+29. Navigate to the README of Initiative Tracker (we can get there through the Community plugin browser) and find the codeblock example. At the time of writing this, it looks like this:
     ```encounter
     name: Example
     creatures:
     - 3: Goblin
     ```
 
-29. Paste codeblock from previous step to
+30. Paste codeblock from previous step to
     ~/zz_Templates/zz_Markdown_Templates/Combat Templates/Insert Encounter (Initiative Tracker).md/
 
-30. FROM
+31. FROM
         ObsidianTTRPGProject/ObsidianTTRPGShare/Pathfinder/Second_Edition/Initiative_Tracker/_attachments/
     copy
         data.json
     to
         ~/.obsidian/plugins/initiative-tracker/
-31. Open Command Palette, "Reload app without saving"
+32. Open Command Palette, "Reload app without saving"
 
-32. Navigate to
+33. Navigate to
         Settings > Community plugins > Initiative Tracker > Statuses
     The ones that don't have the `PF-` prefix are ones from the d&d 5e SRE. In other words, those can be deleted.
-33. Open Command Palette, "Reload app without saving"
+34. Open Command Palette, "Reload app without saving"
 
-34. FROM
+35. FROM
         ObsidianTTRPGProject/ObsidianTTRPGShare/Pathfinder/Second_Edition/Action_Icons/
     copy
         PF2e-Actions-Font.css
     to
         ~/.obsidian/snippets
-35. Open Command Palette, "Reload app without saving"
+36. Open Command Palette, "Reload app without saving"
 
-36. Settings > Options > Appearance > CSS snippets > PF2-eActions-Font = TRUE
+37. Settings > Options > Appearance > CSS snippets > PF2-eActions-Font = TRUE
 
-37. FROM
+38. FROM
         ObsidianTTRPGProject/ObsidianTTRPGShare/Pathfinder/Second_Edition/Action_Icons/Templates/
     copy
         .md files
     to
         zz_Templates/Markdown Templates/PF2e Action Icons/
-38. Open Command Palette, "Reload app without saving"
+39. Open Command Palette, "Reload app without saving"
 
-39. FROM
+40. FROM
         ObsidianTTRPGProject/ObsidianTTRPGShare/Pathfinder/Second_Edition/Action_Icons/Notes/
     copy
         .md files
     to
         ~/GM Screen/
 
-40. FROM
+41. FROM
         ObsidianTTRPGProject/ObsidianTTRPGShare/System_Agnostic/Templates/Call Out Boxes/
     copy
         .md files
