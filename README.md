@@ -92,7 +92,7 @@ NOTE: We're going to begin exploring the directories and files in the ObsidianTT
     copy
         Pathfinder2E-TTRPG-Statblocks.css
     to
-        ~.obsidian/snippets/
+        ~/.obsidian/snippets/
 
 NOTE: When following this tutorial video on JAN-31-2023, ^this CSS file is no longer in the repository.
 
@@ -136,10 +136,42 @@ NOTE: When following this tutorial video on JAN-31-2023, ^this CSS file is no lo
     copy
         data.json
     to
-        ~.obsidian/plugins/initiative-tracker/
+        ~/.obsidian/plugins/initiative-tracker/
 31. Open Command Palette, "Reload app without saving"
 
 32. Navigate to
         Settings > Community plugins > Initiative Tracker > Statuses
     The ones that don't have the `PF-` prefix are ones from the d&d 5e SRE. In other words, those can be deleted.
 33. Open Command Palette, "Reload app without saving"
+
+34. FROM
+        ObsidianTTRPGProject/ObsidianTTRPGShare/Pathfinder/Second_Edition/Action_Icons/
+    copy
+        PF2e-Actions-Font.css
+    to
+        ~/.obsidian/snippets
+35. Open Command Palette, "Reload app without saving"
+
+36. Settings > Options > Appearance > CSS snippets > PF2-eActions-Font = TRUE
+
+37. FROM
+        ObsidianTTRPGProject/ObsidianTTRPGShare/Pathfinder/Second_Edition/Action_Icons/Templates/
+    copy
+        .md files
+    to
+        zz_Templates/Markdown Templates/PF2e Action Icons/
+38. Open Command Palette, "Reload app without saving"
+
+39. FROM
+        ObsidianTTRPGProject/ObsidianTTRPGShare/Pathfinder/Second_Edition/Action_Icons/Notes/
+    copy
+        .md files
+    to
+        ~/GM Screen/
+
+40. FROM
+        ObsidianTTRPGProject/ObsidianTTRPGShare/System_Agnostic/Templates/Call Out Boxes/
+    copy
+        .md files
+    to
+        zz_Templates/Markdown Templates/Call Out Boxes/
