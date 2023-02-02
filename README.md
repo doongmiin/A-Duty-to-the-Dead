@@ -175,3 +175,26 @@ NOTE: We're going to begin exploring the directories and files in the ObsidianTT
         .md files
     to
         zz_Templates/Markdown Templates/Call Out Boxes/
+
+# Updated Content from ObsidianTTRPGProject
+While following Josh Plunkett's Youtube video, there were a handful of GitHub folders that he downloaded and copied to various directories in the Obsidian vault.
+
+Instead of following those steps, I simply forked the GitHub/ObsidianTTRPGProject/ObsidianTTRPGShare/ repository and copied files using a file explorer like Doulble Commander (on Windows) or Commander One (on Mac)
+
+When ObsidianTTRPGShare has new updates:
+- I sync the changes to my fork,
+- From fork, create a branch with only the Pathfinder_2E directory
+- I sync the fork to my computer using GitHub Desktop
+
+- Check whether there's updates in ~/Pathfinder_2E/Bestiary/
+- If yes, follow Step #15
+
+- Step #16
+- Step #17, #18
+- Step #19, #20
+- Step #22
+- Step #31
+- Step #35
+- Step #38
+- Step #40
+- Step #41
