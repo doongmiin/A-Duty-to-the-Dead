@@ -12,3 +12,13 @@ creatures:
  - 3: Air Mephit
 ```
 
+*⬻{ .Pathfinder }*
+
+*⬺{ .Pathfinder }*
+
+*⬽{ .Pathfinder }*
+
+*⭓{ .Pathfinder }*
+
+*⬲{ .Pathfinder }*
+
